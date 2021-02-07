@@ -1,7 +1,7 @@
 # RIDAVENTURE
 Quebec Epic Motorcycle Adventure
 
-This GitHub project is dedicate to the RIDAVENTURE App and Website
+This project is dedicate to the RIDAVENTURE.ca App and Website
 
 =====================
 
