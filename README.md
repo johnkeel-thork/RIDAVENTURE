@@ -6,7 +6,8 @@ This GitHub project is dedicate to the RIDAVENTURE App and Website
 =====================
 
 ## Contribute to Website (docs folder):
-Site Render URL: https://johnkeel-thork.github.io/RIDAVENTURE/
+Site URL: https://johnkeel-thork.github.io/RIDAVENTURE/
+
 Site Code: https://github.com/johnkeel-thork/RIDAVENTURE/tree/main/docs
 
 =====================
